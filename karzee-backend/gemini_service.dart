@@ -2,7 +2,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 
 class KarzeeAIService {
   // 1. Yahan apni EKDOM FRESH API Key paste kar
-  final String _apiKey = "AIzaSyDIe9GD-FijMDf1ZmC4BX0eTAXOxw3-S8M"; 
+  final String _apiKey = "api key hidden"; 
 
   Future<String> getTaskRecommendation({
     required String taskDetails,
