@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "karzee"
+  },
+  "targets": {
+    "karzee": {
+      "hosting": {
+        "default": [
+          "karzee-web"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

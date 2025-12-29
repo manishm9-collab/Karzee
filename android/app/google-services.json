@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "636076907670",
+    "project_id": "karzee-527a8",
+    "storage_bucket": "karzee-527a8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636076907670:android:d9e8600c80075684abf6b7",
+        "android_client_info": {
+          "package_name": "com.example.karzee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75dfVwAVuBKAg8z3bP_F7rFBXlYGfoIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636076907670:android:9f7be8867f2e29a7abf6b7",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB75dfVwAVuBKAg8z3bP_F7rFBXlYGfoIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
